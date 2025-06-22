@@ -3,7 +3,7 @@
 ## Overview
 This repository provides the official implementation of the ATTR model for unpaired audio-to-audio translation, as introduced in our paper:
 
-**[Paper](https://github.com/Maharnab-Saikia/ATTR/attr.pdf)**
+**[Paper](https://github.com/Maharnab-Saikia/ATTR/paper/ATTR.pdf)**
 
 ATTR is the result of an independent research project focused on unpaired audio-to-audio translation for conversational AI systems. Although initially submitted to IWSLT-2025 and not accepted, I believe the model and findings may offer useful insights to the community.
 
@@ -70,6 +70,6 @@ Converted audio samples will be saved in `./checkpoints/ATTR/converted_sound/`.
 ---
 
 ## Citation
-If you use this code for your research, please cite our [paper](https://github.com/Maharnab-Saikia/ATTR/attr.pdf).
+If you use this code for your research, please cite our [paper](https://github.com/Maharnab-Saikia/ATTR/paper/ATTR.pdf).
 
 **Citation details coming soon.**
