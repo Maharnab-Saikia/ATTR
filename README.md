@@ -3,7 +3,7 @@
 ## Overview
 This repository provides the official implementation of the ATTR model for unpaired audio-to-audio translation, as introduced in our paper:
 
-**[Paper](https://github.com/Maharnab-Saikia/ATTR/blob/main/paper/ATTR.pdf)**
+### [Paper](https://zenodo.org/records/17231425)
 
 ATTR is the result of an independent research project focused on unpaired audio-to-audio translation for conversational AI systems. Although initially submitted to IWSLT-2025 and not accepted, I believe the model and findings may offer useful insights to the community.
 
@@ -70,6 +70,15 @@ Converted audio samples will be saved in `./checkpoints/ATTR/converted_sound/`.
 ---
 
 ## Citation
-If you use this code for your research, please cite our [paper](https://github.com/Maharnab-Saikia/ATTR/blob/main/paper/ATTR.pdf).
+If you use this code for your research, please cite our [paper](https://zenodo.org/records/17231425).
 
-**Citation details coming soon.**
+```
+@misc{saikia2025attr,
+  author       = {Maharnab Saikia},
+  title        = {ATTR: A Transformer-Based Model for Unpaired Audio-to-Audio Translation},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17231425},
+  url          = {https://doi.org/10.5281/zenodo.17231425}
+}
+```
